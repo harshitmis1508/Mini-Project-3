@@ -1,0 +1,20 @@
+# Backend
+Backend/target/
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
